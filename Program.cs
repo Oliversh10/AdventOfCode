@@ -1,4 +1,6 @@
-﻿using Microsoft.VisualBasic;
+//Day 1
+
+using Microsoft.VisualBasic;
 using System.Collections.Generic;
 
 string valg;
